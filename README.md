@@ -2,8 +2,6 @@
 Textos em português do https://dev.to/portugues
 
 ## Instruções
-- Escreva um texto em português
-- Escreve um tweet com um link para o texto e o username [@aicoutos](https://twitter.com/aicoutos)
 - Clique em https://dev.to/settings/organization 
 - Cole o código secreto abaixo e clique em "Join Organization"
 ```
