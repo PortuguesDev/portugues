@@ -2,4 +2,7 @@
 Textos em português do https://dev.to/portugues
 
 ## Instruções
-Para participar dessa organização envie uma mensagem para https://twitter.com/aicoutos
+- Escreva um texto em português
+- Escreve um tweet com um link para o texto e o username @aicoutos 
+- Aguarde até receber o código secreto
+- Cole o código secreto em https://dev.to/settings/organization e clique em "Join Organization"
